@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aletslima123/js-tdd-course.git"
+  },
+  "author": "Alexandre Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aletslima123/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/aletslima123/js-tdd-course#readme"
+}
